@@ -60,7 +60,7 @@ In the era of complexity, we are called to model many ecological, social, econom
 
 ## References
 *Anyomi, K. A., Mitchell, S. J., & Ruel, J. C. (2016). Windthrow modelling in old-growth and multi-layered boreal forests. Ecological modelling, 327, 105-114.
-BCGN (2016). BC Gov News: Province’s newest chief forester announced published in 02/26/2016 online, accesed 12/05/2019 in https://news.gov.bc.ca/10378 
+BCGN (2016). BC Gov News: Province’s newest chief forester announced published in 02/26/2016 online, accesed 12/05/2019 in https://news.gov.bc.ca/10378
 
 *Axelson, J. N., Alfaro, R. I., & Hawkes, B. C. (2009). Influence of fire and mountain pine beetle on the dynamics of lodgepole pine stands in British Columbia, Canada. Forest Ecology and Management, 257(9), 1874-1882.
 
@@ -121,6 +121,6 @@ https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestr
 
 *Schweiger, A. K., Cavender-Bares, J., Townsend, P. A., Hobbie, S. E., Madritch, M. D., Wang, R., ... & Gamon, J. A. (2018). Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function. Nature ecology & evolution, 2(6), 976. 
 
-*Smiley, B. P., Trofymow, J. A., & Niemann, K. O. (2016). Spatially-explicit reconstruction of 100 years of forest land use and disturbance on a coastal British Columbia Douglas-fir-dominated landscape: implications for future watershed-scale carbon stock recovery. Applied Geography, 74, 109-122.
+*Smiley, B. P., Trofymow, J. A., & Niemann, K. O. (2016). Spatially-explicit reconstruction of 100 years of forest land use and disturbance on a coastal British Columbia Douglas-fir-dominated landscape: implications for future watershed-scale carbon stock recovery. Applied Geography, 74, 109-122._
 
 
