@@ -7,6 +7,9 @@ image: "img/adaptingbcforests2.jpg"
 date:   2019-11-22 12:12:12
 ---
 
+### Abstract
+British Columbia was established and grown on extractive activities, and Forestry was a big one. The "sustainable harvest" approach managed forests in a commercially efficient form: get all the stands homogenized to keep harvesting each of them every 70 years or so. After harvesting most of the forests of the province more than once in the last three centuries, it seems like what we thought to be a long-lasting practice is proving incredibly defficient. This essay addresses only one component of the transformation that forestry industry will have to undergo to "mature" its management.
+
 ### Introduction
 The current challenges of forestry science and industry in British Columbia (BC) are breaking historical records. Two examples of such are (1) the loss of 17 million hectares of pine to the pine beetle outbreak that will shrink the amount of wood available for the next 50 years (Lamers, 2014) and (2) the 2017-2018 wildfire season destroying more than 20 thousand km2 of forest (FLNRORD, 2019d). This has set off the alarms in the forestry community questioning the way we have managed age and diversity of the forests and how our aesthetic and economic needs have led us to reshape fire regimes and insect lifecycle making them increasingly dangerous.
 Another concerning challenge was presented in a previous essay, where referring to four dilemmas witnessed during FRST 547 field trips we reflected that making the right choice of species of trees we are planting today is an increasingly complicated decision to make. Both bark beetle and fire crisis have weakened the idea that the amount of wood available for harvest will steadily increase in a forest managed under current practices in BC, and the three challenges together suggest that the future of forestry is composed by pieces of uncertainty that, if not well managed, can have very high costs for the sector. 
