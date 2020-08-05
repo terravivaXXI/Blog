@@ -60,67 +60,66 @@ In the era of complexity, we are called to model many ecological, social, econom
 
 ## References
 *Anyomi, K. A., Mitchell, S. J., & Ruel, J. C. (2016). Windthrow modelling in old-growth and multi-layered boreal forests. Ecological modelling, 327, 105-114.
-BCGN (2016). BC Gov News: Province’s newest chief forester announced published in 02/26/2016 online, accesed 12/05/2019 in https://news.gov.bc.ca/10378
+BCGN (2016). BC Gov News: Province’s newest chief forester announced published in 02/26/2016 online, accesed 12/05/2019 in https://news.gov.bc.ca/10378*
 
-*Axelson, J. N., Alfaro, R. I., & Hawkes, B. C. (2009). Influence of fire and mountain pine beetle on the dynamics of lodgepole pine stands in British Columbia, Canada. Forest Ecology and Management, 257(9), 1874-1882.
+Axelson, J. N., Alfaro, R. I., & Hawkes, B. C. (2009). Influence of fire and mountain pine beetle on the dynamics of lodgepole pine stands in British Columbia, Canada. Forest Ecology and Management, 257(9), 1874-1882.*
 
-*Blanco, J. A., Page‐Dumroese, D. S., Jurgensen, M. F., Curran, M. P., Tirocke, J. M., & Walitalo, J. (2018). Modelling the management of forest ecosystems: Importance of wood decomposition. Natural Resource Modeling, 31(3), e12173.
+*Blanco, J. A., Page‐Dumroese, D. S., Jurgensen, M. F., Curran, M. P., Tirocke, J. M., & Walitalo, J. (2018). Modelling the management of forest ecosystems: Importance of wood decomposition. Natural Resource Modeling, 31(3), e12173.*
 
 *Brend Y. (2017). CBC News. Forget Smokey the Bear: How First Nation fire wisdom is key to megafire prevention. Retrieved on 12/05/2019 from
-https://www.cbc.ca/news/canada/british-columbia/fire-fighting-first-nations-firekeepers-annie-kruger-penticton-bc-wildfire-mega-fire-1.4205506
+https://www.cbc.ca/news/canada/british-columbia/fire-fighting-first-nations-firekeepers-annie-kruger-penticton-bc-wildfire-mega-fire-1.4205506 *
 
-*Corbett, L. J., Withey, P., Lantz, V. A., & Ochuodho, T. O. (2015). The economic impact of the mountain pine beetle infestation in British Columbia: provincial estimates from a CGE analysis. Forestry: An International Journal of 
-Forest Research, 89(1), 100-105.
+*Corbett, L. J., Withey, P., Lantz, V. A., & Ochuodho, T. O. (2015). The economic impact of the mountain pine beetle infestation in British Columbia: provincial estimates from a CGE analysis. Forestry: An International Journal of Forest Research, 89(1), 100-105.*
 
-*Crutzen, P. J. (2006). The “anthropocene”. In Earth system science in the anthropocene (pp. 13-18). Springer, Berlin, Heidelberg. 
+*Crutzen, P. J. (2006). The “anthropocene”. In Earth system science in the anthropocene (pp. 13-18). Springer, Berlin, Heidelberg. *
 
-*Dymond, C., Spittlehouse, D., Tedder, S., Hopkins, K., McCallion, K., & Sandland, J. (2015). Applying resilience concepts in forest management: a retrospective simulation approach. Forests, 6(12), 4421-4438.
+*Dymond, C., Spittlehouse, D., Tedder, S., Hopkins, K., McCallion, K., & Sandland, J. (2015). Applying resilience concepts in forest management: a retrospective simulation approach. Forests, 6(12), 4421-4438.*
 
-*FLNRORD (2009), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Lakes Timber Supply Area: Rationale for Allowable Annual Cut. Reviewed on 12/05/2019 at http://data.nrs.gov.bc.ca/TSR_Historical/TSA/Lakes_14/TSR_2010/AAC_Rationale_2011/14ts11ra.pdf
+*FLNRORD (2009), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Lakes Timber Supply Area: Rationale for Allowable Annual Cut. Reviewed on 12/05/2019 at http://data.nrs.gov.bc.ca/TSR_Historical/TSA/Lakes_14/TSR_2010/AAC_Rationale_2011/14ts11ra.pdf *
 
-*FLNRORD (2016). Ministry of Forests, Lands and Natural Resource Operations Timber Supply Review, Timber Supply Areas. Consulted online on 21/05/2019 in: https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/tsr_timber_supply_areas.pdf
+*FLNRORD (2016). Ministry of Forests, Lands and Natural Resource Operations Timber Supply Review, Timber Supply Areas. Consulted online on 21/05/2019 in: https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/tsr_timber_supply_areas.pdf *
 
-*FLNRORD (2019a), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Lakes Timber Supply Area: Rationale for Allowable Annual Cut. Reviewed on 12/05/2019 at www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/14tsra_2019.pdf
+*FLNRORD (2019a), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Lakes Timber Supply Area: Rationale for Allowable Annual Cut. Reviewed on 12/05/2019 at www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/14tsra_2019.pdf *
 
-*FLNRORD (2019b), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Allowable Annual Cut – Timber Supply Areas. Reviewed on 12/05/2019 at https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/timber-supply-review-and-allowable-annual-cut/allowable-annual-cut-timber-supply-areas
+*FLNRORD (2019b), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Allowable Annual Cut – Timber Supply Areas. Reviewed on 12/05/2019 at https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/timber-supply-review-and-allowable-annual-cut/allowable-annual-cut-timber-supply-areas *
 
 *FLNRORD (2019c), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development. Lakes Timber Supply Area Discussion Paper. Reviewed on 12/05/2019 at
-https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/14ts_tsr_dp_2019.pdf
+https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/stewardship/forest-analysis-inventory/tsr-annual-allowable-cut/14ts_tsr_dp_2019.pdf *
 
-*FLNRORD (2019d), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development, BC Wildfire Service, n.d., Wildfire Averages, accessed April 17, 2019. https://www2.gov.bc.ca/gov/content/safety/wildfire-status/about-bcws/wildfire-statistics/wildfire-averages
+*FLNRORD (2019d), British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development, BC Wildfire Service, n.d., Wildfire Averages, accessed April 17, 2019. https://www2.gov.bc.ca/gov/content/safety/wildfire-status/about-bcws/wildfire-statistics/wildfire-averages *
 
-*Foley, J. A., DeFries, R., Asner, G. P., Barford, C., Bonan, G., Carpenter, S. R., … Snyder, P. K. (2005). Global consequences of land use. Science, 309(5734), 570–574. https://doi.org/10.1126/science.1111772
+*Foley, J. A., DeFries, R., Asner, G. P., Barford, C., Bonan, G., Carpenter, S. R., … Snyder, P. K. (2005). Global consequences of land use. Science, 309(5734), 570–574. https://doi.org/10.1126/science.1111772 *
 
-*Freer, C. E., & Wissner-Gross, A. D. (2014). U.S. Patent No. 8,635,133. Washington, DC: U.S. Patent and Trademark Office.
+*Freer, C. E., & Wissner-Gross, A. D. (2014). U.S. Patent No. 8,635,133. Washington, DC: U.S. Patent and Trademark Office.*
 
-*García, O. (2017). Cohort aggregation modelling for complex forest stands: Spruce–aspen mixtures in British Columbia. Ecological modelling, 343, 109-122.
+*García, O. (2017). Cohort aggregation modelling for complex forest stands: Spruce–aspen mixtures in British Columbia. Ecological modelling, 343, 109-122.*
 
-*Graham, M. H., Dayton, P. K. (2002). On the evolution of ecological ideas: Paradigms and scientific progress. Ecology, 83(6), 1481–1489. https://doi.org/10.1890/0012-9658(2002)083[1481:OTEOEI]2.0.CO;2 
+*Graham, M. H., Dayton, P. K. (2002). On the evolution of ecological ideas: Paradigms and scientific progress. Ecology, 83(6), 1481–1489. https://doi.org/10.1890/0012-9658(2002)083[1481:OTEOEI]2.0.CO;2 *
 
-*Hilbert, M., & López, P. (2011). The World’s Technological Capacity. Science, 332(April), 60–65. https://doi.org/10.1126/science.1200970
+*Hilbert, M., & López, P. (2011). The World’s Technological Capacity. Science, 332(April), 60–65. https://doi.org/10.1126/science.1200970 *
 
-*Hamann, A., & Wang, T. (2006). Potential effects of climate change on ecosystem and tree species distribution in British Columbia. Ecology, 87(11), 2773-2786.
+*Hamann, A., & Wang, T. (2006). Potential effects of climate change on ecosystem and tree species distribution in British Columbia. Ecology, 87(11), 2773-2786.*
 
-*Hausfather Z., Drake H, Abbott T, Scmidt G. (2019) Evaluating the performance of past climate model projections. Geophysical Research Letters. In process of publication.
+*Hausfather Z., Drake H, Abbott T, Scmidt G. (2019) Evaluating the performance of past climate model projections. Geophysical Research Letters. In process of publication.*
 
-*Hof, A. R., Dymond, C. C., & Mladenoff, D. J. (2017). Climate change mitigation through adaptation: the effectiveness of forest diversification by novel tree planting regimes. Ecosphere, 8(11), e01981.
+*Hof, A. R., Dymond, C. C., & Mladenoff, D. J. (2017). Climate change mitigation through adaptation: the effectiveness of forest diversification by novel tree planting regimes. Ecosphere, 8(11), e01981. *
 
-*Lamers, P., Junginger, M., Dymond, C., & Faaij, A. (2014). Damaged forests provide an opportunity to mitigate climate change. GCB Bioenergy, 6(1), 44–60. https://doi.org/10.1111/gcbb.12055
+*Lamers, P., Junginger, M., Dymond, C., & Faaij, A. (2014). Damaged forests provide an opportunity to mitigate climate change. GCB Bioenergy, 6(1), 44–60. https://doi.org/10.1111/gcbb.12055 *
 
-*Lawson, P (2019) Forestry in BC – How is it organized? Accesed 2019/12/02 at http://suewatts.forestry.ubc.ca/forestry-in-bc-how-is-it-organized-paul-lawson-sep-6-2019-4/
+*Lawson, P (2019) Forestry in BC – How is it organized? Accesed 2019/12/02 at http://suewatts.forestry.ubc.ca/forestry-in-bc-how-is-it-organized-paul-lawson-sep-6-2019-4/ *
 
-*Marr, B. (2018, May 21). How Much Data Do We Create Every Day? Forbes Digital Magazine retrieved on Nov 22, 2019 at: https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#c54392260ba9
+*Marr, B. (2018, May 21). How Much Data Do We Create Every Day? Forbes Digital Magazine retrieved on Nov 22, 2019 at: https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#c54392260ba9 *
 
-*Pearse, P. H. (1990). Introduction to forestry economics. UBC Press.
+*Pearse, P. H. (1990). Introduction to forestry economics. UBC Press.*
 
-*Pereira, H. M., Ferrier, S., Walters, M., Geller, G. N., Jongman, R. H. G., Scholes, R. J., ... & Coops, N. C. (2013). Essential biodiversity variables. Science, 339(6117), 277-278.
+*Pereira, H. M., Ferrier, S., Walters, M., Geller, G. N., Jongman, R. H. G., Scholes, R. J., ... & Coops, N. C. (2013). Essential biodiversity variables. Science, 339(6117), 277-278. *
 
-*Rind, D. (1999). Complexity and climate. science, 284(5411), 105-107.
+*Rind, D. (1999). Complexity and climate. science, 284(5411), 105-107.*
 
-*Rockström, J., Steffen, W., Noone, K., Persson, Å., F. Stuart Chapin, I., Lambin, E. F., … Foley, J. A. (2009). A safe operating space for humanity. Nature, 461(September).
+*Rockström, J., Steffen, W., Noone, K., Persson, Å., F. Stuart Chapin, I., Lambin, E. F., … Foley, J. A. (2009). A safe operating space for humanity. Nature, 461(September). *
 
-*Schweiger, A. K., Cavender-Bares, J., Townsend, P. A., Hobbie, S. E., Madritch, M. D., Wang, R., ... & Gamon, J. A. (2018). Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function. Nature ecology & evolution, 2(6), 976. 
+*Schweiger, A. K., Cavender-Bares, J., Townsend, P. A., Hobbie, S. E., Madritch, M. D., Wang, R., ... & Gamon, J. A. (2018). Plant spectral diversity integrates functional and phylogenetic components of biodiversity and predicts ecosystem function. Nature ecology & evolution, 2(6), 976. *
 
-*Smiley, B. P., Trofymow, J. A., & Niemann, K. O. (2016). Spatially-explicit reconstruction of 100 years of forest land use and disturbance on a coastal British Columbia Douglas-fir-dominated landscape: implications for future watershed-scale carbon stock recovery. Applied Geography, 74, 109-122._
+*Smiley, B. P., Trofymow, J. A., & Niemann, K. O. (2016). Spatially-explicit reconstruction of 100 years of forest land use and disturbance on a coastal British Columbia Douglas-fir-dominated landscape: implications for future watershed-scale carbon stock recovery. Applied Geography, 74, 109-122. *
 
 
