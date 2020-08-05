@@ -206,7 +206,7 @@
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;
-	color: #f8f8ff;
+	color: #000000;
 	background: #f0f0f0;
 	background-size: cover;
 	-webkit-font-smoothing: antialiased;
@@ -246,9 +246,9 @@ a:focus {
 .body a {
 	color: #4f4c4c;
 }
-/* Change colour of subtitle in the head of the page*/
+/* Change colour of subtitle in the header of the page*/
 .body .header h1 span {
-	color: #f8f8ff;
+	color: #000000;
 }
 
 .hidden {
