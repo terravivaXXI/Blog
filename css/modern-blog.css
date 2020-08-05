@@ -202,6 +202,7 @@
 	clear: both;
 }
 
+/*Modifies the color and style of the main and subsequent fonts*/
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;
@@ -245,9 +246,9 @@ a:focus {
 .body a {
 	color: #4f4c4c;
 }
-
+/* Change colour of subtitle in the head of the page*/
 .body .header h1 span {
-	color: #4f4c4c;
+	color: #f8f8ff;
 }
 
 .hidden {
@@ -270,12 +271,12 @@ a:focus {
 	line-height: 1.2;
 	margin: .5em 0 0;
 }
-
+/* This thing changes the background color */ 
 .header h1 span {
 	font-size: .45em;
 	display: block;
 	padding: .5em 0 1em;
-	color: #f8f8ff;
+	color: #999;
 }
 /* Top Navigation Style */
 
