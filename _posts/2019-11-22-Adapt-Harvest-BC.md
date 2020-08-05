@@ -3,7 +3,7 @@ title:  "Adapting BC Forest Harvest Limits to the New Era"
 subtitle: "How can the forest management strategy of limiting harvest volume adapt to face the perfect storm of game changing phenomena, climate change and information digitization?"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests1.jpg"
+image: "img/adaptingbcforests2.jpg"
 date:   2019-11-22 12:12:12
 ---
 
