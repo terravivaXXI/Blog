@@ -1,6 +1,6 @@
 ---
-title:  "La metodología del Plan de Desarrollo Regional del Cañón de Juchipila realizado por SEDAGRO, FAO y UACH"
-subtitle: "Un comentario a la Metodología"
+title:  "Autodiálogo"
+subtitle: "Reflejos de mi posicionalidad como autor"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
 image: "img/adaptingbcforests2.jpg"
