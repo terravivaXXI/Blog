@@ -3,7 +3,7 @@ title:  "Protocolo de Investigación para Tesis"
 subtitle: "El Papel del Agua en el Desarrollo de Yoactún"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/leo.jpg"
 date:   2016-07-08 12:12:12
 ---
 
