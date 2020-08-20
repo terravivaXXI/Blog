@@ -3,7 +3,7 @@ title:  "Los conceptos de evaluación en el desarrollo"
 subtitle: ""
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/chanka.jpg"
 date:   2016-02-07 12:12:12
 ---
 
