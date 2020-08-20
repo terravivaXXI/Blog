@@ -3,7 +3,7 @@ title:  "El Hogar Agrícola"
 subtitle: "Unidad fundamental de la agricultura familiar."
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/ClasificacionAgFam.png"
+image: "img/milpero.jpg"
 date:   2016-07-08 12:12:12
 ---
 
