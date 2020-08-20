@@ -3,7 +3,7 @@ title:  "Información Básica Sobre la Agricultura Familiar en Latinoamérica"
 subtitle: "Compilación Básica"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/chanka.jpg"
 date:   2016-07-08 12:12:12
 ---
 
