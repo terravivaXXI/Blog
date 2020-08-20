@@ -51,7 +51,7 @@ En vistas de generar una clasificación de la agricultura familiar en el área m
 
 La población dedicada a la agricultura es predominantemente mayahablante. Esto se puede ver en la clasificación de unidades de producción generada por el INEGI en el Censo Agropecuario 2007 en el que se informó que 73% de las unidades de producción de la península tenían como jefe a un hablante de lengua maya
 
-![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/UnidadesMayas.png "Grafico UP Mayas. Censo Agropecuario 2007. INEGI")
+![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/UPMayas.png "Grafico UP Mayas. Censo Agropecuario 2007. INEGI")
 
 Por esta razón es pertinente definir la caracterización para los hogares ubicados en las regiones en donde existe una predominancia de la cultura maya, entre los que se encuentra el municipio de Felipe Carrillo Puerto.
 El promedio de hijos al año 2000 de las familias mayas era de 5 hijos por mujer en el rango de 40 a 44 años, lo que permite suponer que la fuerza de trabajo familiar está disponible para la mayoría de los hogares mayas. Un dato relevante para nuestra investigación es que el 32% de la población económicamente activa del área maya está dedicada a la agricultura pero además casi 20% de ella vive en núcleos de población de más de 100 mil habitantes, por lo que se puede asumir que no se dedican a la agricultura. Además 63% de ella es considerada urbana por habitar poblaciones con más de 2500 habitantes. Aunque este parámetro es el oficial, nos gustaría estar abiertos a que el medio rural maya comprenda poblaciones mayores, aunque en este momento no nos encontramos en posibilidad de definir el rango. Para la discusión a continuación estos valores no son fundamentales.
@@ -146,7 +146,7 @@ Nuestra propuesta de clasificación consiste en una tipología que se puede comp
 La producción que puede estar orientada al mercado o a la autoabasto y la distribución de la fuerza de trabajo que puede ser mayoritaria o minoritaria en el ramo agrícola. 
 Con esto hemos generado una tipología a las UPAF (que después se complementa con una caracterización) de la siguiente forma:
 
-![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/ClasificacionUPAF.png "Grafico Clasificación de las UPAF. Elaboración propia")
+![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/ClasificacionAgFam.png "Grafico Clasificación de las UPAF. Elaboración propia")
 
 Esta es una clasificación que sólo incluye a las unidades de producción de agricultura familiar. En el caso de otro tipo de unidades, pueden llamarse unidades de producción familiar UPF pero en este caso no son de relevancia para la clasificación.
 A partir de estos tipos de UPAF podemos añadir características a cada hogar clasificado. El criterio sería que el proceso de producción dominante se menciona primero después del tipo de UPAF. 
