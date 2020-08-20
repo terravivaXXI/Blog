@@ -1,6 +1,6 @@
 ---
 title:  "La gestión del desarrollo"
-subtitle: "Ul camino emergente para la construcción descentralizada de un mundo más justo."
+subtitle: "Un camino emergente para la construcción descentralizada de un mundo más justo."
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
 image: "img/adaptingbcforests2.jpg"
