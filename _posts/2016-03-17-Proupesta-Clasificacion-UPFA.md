@@ -146,7 +146,7 @@ Nuestra propuesta de clasificación consiste en una tipología que se puede comp
 La producción que puede estar orientada al mercado o a la autoabasto y la distribución de la fuerza de trabajo que puede ser mayoritaria o minoritaria en el ramo agrícola. 
 Con esto hemos generado una tipología a las UPAF (que después se complementa con una caracterización) de la siguiente forma:
 
-![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/ClasificacionAgFam.png "Grafico Clasificación de las UPAF. Elaboración propia")
+![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/TipologiaUPFA.png "Grafico Clasificación de las UPAF. Elaboración propia")
 
 Esta es una clasificación que sólo incluye a las unidades de producción de agricultura familiar. En el caso de otro tipo de unidades, pueden llamarse unidades de producción familiar UPF pero en este caso no son de relevancia para la clasificación.
 A partir de estos tipos de UPAF podemos añadir características a cada hogar clasificado. El criterio sería que el proceso de producción dominante se menciona primero después del tipo de UPAF. 
