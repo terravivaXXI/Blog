@@ -35,21 +35,31 @@ Por otro lado los hoteles y agroindustrias de la región han propiciado una din�
 
 ![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/SinopticoEconomico.png " Cuadro sinóptico de las teorías del desarrollo regional")
 
-La innovación en la sociedad
-La innovación ha sido un concepto central en la teoría económica. Joseph Schumpeter (1912), reconocido por abordar el tema con profundidad la define como la nueva combinación de recursos productivos en cinco casos: : 
+## La innovación en la sociedad
+
+La innovación ha sido un concepto central en la teoría económica. Joseph Schumpeter (1912), reconocido por abordar el tema con profundidad la define como la nueva combinación de recursos productivos en cinco casos:
+
 1.	Introducción de un nuevo bien o la mejora en su calidad
 2.	Introducción de un nuevo método de producción
 3.	Apertura de un nuevo mercado
 4.	Nuevas fuentes de aprovisionamiento
 5.	Surgimiento o anulación de monopolios
+
 Estos cambios en la historia del desarrollo se han tratado como grandes avances para la mejora de la calidad de vida y la actividad económica. Sin embargo, esta innovación puede tener, como cualquier otra acción, consecuencias negativas y positivas. Aunque puede ser definida como el motor del desarrollo estos cambios pueden ocasionar desigualdad y pobreza al generar condiciones de mecanización y acumulación de conocimiento técnico que favorecen a pocos individuos.
 Desde el punto de vista de la microeconomía neoclásica, la innovación tendrá siempre consecuencias positivas al provocar que se produzca más con menor esfuerzo, independientemente de las condiciones de monopolio o competencia perfecta, pues en ambos casos se aumentará la producción, en una en el sistema empresarial favoreciendo la acumulación de saberes técnicos y el perfeccionamiento de los procesos de producción y en la otra dentro del monopolio afectando la oferta y, por ende disminuyendo los precios, lo que en ambos casos favorecerá a los consumidores.
+
 La microeconomía poskeynesiana considera a la empresa como el actor fundamental de la economía, y dependiendo de los autores esta toma diferentes funciones y escalas. Muchos de ellos prefieren entender a la empresa como los sectores oligopólicos del mercado conformados por las corporaciones de mayor relevancia en el ramo, mientras que otros priorizarán los actores individuales. La característica invariable de la empresa es su capacidad de fijar precios y estrategias de expansión en el mercado a cuyas leyes está sujeta.
+
 El análisis de precios está sujeto a un costo fijo promedio, costo variable promedio y un beneficio, este último siendo un punto crítico en la política de valoración del producto, pues en caso de ser muy alto puede ser fácilmente atacado por empresas grandes. El impacto de la innovación puede estar en los costos fijos (por ejemplo en el caso 4. en el que se encuentra una fuente más barata de aprovisionamiento) o variables (mejorar el proceso de producción, por ejemplo, o el aumento de la tecnología para mejorar la eficiencia de algunos procesos). Además la innovación puede permitir a la empresa operar con mayor seguridad o escala a partir de los esquemas de financiamiento que aumentan la disponibilidad de efectivo. Estos rubros definen el campo de acción de innovación y todos tienen consecuencias favorables para la empresa o para el mercado.
+
 Queda claro que desde un enfoque técnico-económico, independientemente del enfoque teórico (neoclásico o poskeynesiano), la innovación puede ser deseable, pero cuando se incorpora una dimensión sociológica-marxista puede entenderse que exista una oposición al desplazamiento de fuerza de trabajo humana por maquinaria que realice su trabajo, pues esto orilla a los individuos desfavorecidos a competir por las pocas plazas disponibles. 
+
 Esta situación es confirmada por Vargas y Rodríguez (2013) quienes afirman que aunque la innovación genera crecimiento económico no se traduce en bienestar social y mejor distribución del ingreso. Los autores diagnostican tres claros factores:
+
 •	Al disminuir la dependencia de fuerza de trabajo obrera estas personas pueden ser despedidas.
+
 •	Aunque se genera mayor volumen de ventas y de producción, regularmente el salario de los obreros no varía. Así, la economía material crece pero los trabajadores tienen el mismo poder adquisitivo si no generan procesos de presión por medio de sindicatos u organizaciones.
+
 •	En dinámicas oligopólicas hay poca variación de precio porque ellas lo fijan, lo que provoca que los beneficios de la innovación no se transmitan a los consumidores.
 Conclusiones
 
