@@ -3,7 +3,7 @@ title:  "La aplicación de la teoría keynesiana en la educación indígena oaxa
 subtitle: "Reflexiones de una experiencia de servicio social"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/montanas.jpg"
 date:   2016-02-07 12:12:12
 ---
 
