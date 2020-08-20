@@ -83,19 +83,19 @@ Es interesante el caso de la población menonita que habita en el norte de Campe
 
 Una vez que sabemos que nuestra unidad económica es una UPAF nos daremos a la tarea de generar categorías para ellas. Esto surge por la necesidad de tener un panorama más claro sobre la composición de la agricultura familiar en la región.
 
-*Miembros del hogar, edades e idiomas*
+*Miembros del hogar, edades e idiomas *
 
 Estos parámetros nos podrán ayudar a entender si estamos ante una familia nuclear, extensa o un hogar formado con miembros con relaciones no consanguíneas. La lengua maya jugará un papel fundamental. Esta estructura será especialmente útil para ubicar grupos vulnerables como familias con madre o padre soltero, parejas de edad avanzada sin hijos o situaciones de orfandad que vale la pena considerar, además de permitirnos estimar la fuerza de trabajo disponible. La educación de los mismos no es relevante en este momento.
 
-*Distribución de la fuerza de trabajo*
+*Distribución de la fuerza de trabajo *
 
 Para saber si la familia se dedica a la agricultura y en qué proporción necesitaremos dicho parámetro, además de proporcionarnos información para generar estrategias de capitalización e inversión
 
-*Orientación de la producción. *
+*Orientación de la producción *
 
 Determinar qué proporción de la producción es vendida, cuánta regalada y cuanta usada por el hogar es la variable que nos parece más pertinente para generar la caracterización.
 
-*Capital *
+*Capital*
 
 Además de que el criterio 3 depende de que tengamos una idea estimada del capital que posee la familia se puede conocer la dependencia neta de la familia en casos de pobreza. 
 
@@ -103,7 +103,7 @@ Además de que el criterio 3 depende de que tengamos una idea estimada del capit
 
 Informa sobre diferentes usos y costumbres que pueden ser limitantes o favorecedores y que muchas veces determinan también la racionalidad económica de las familias.
 
-*Ramo agrícola.*
+*Ramo agrícola*
 
 En este caso se considera a la agricultura desde una perspectiva amplia que incluye la producción agrícola vegetal, animal, explotación forestal y acuícola. Por esta razón cada una de ellas deberá ser analizada de forma particular.
 
