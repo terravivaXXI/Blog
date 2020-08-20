@@ -82,17 +82,17 @@ Por último, Baker cuenta con una metodología con pasos para el diseño de una 
 
 *Durante la identificación y preparación del proyecto*
 
-•	Determinar si es pertienente la evaluación
+1. Determinar si es pertienente la evaluación
 
-•	Definir objetivos de la evaluación
+2. 	Definir objetivos de la evaluación
 
-•	Analizar disponibilidad de datos
+3. 	Analizar disponibilidad de datos
 
-•	Diseñar la evaluación
+4. 	Diseñar la evaluación
 
-•	Formar un equipo de evaluación
+5. 	Formar un equipo de evaluación
 
-•	En caso de programar uso de datos:
+6. 	En caso de programar uso de datos:
 
 o	Diseñar y seleccionar muestras
 
