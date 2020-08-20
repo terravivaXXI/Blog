@@ -7,7 +7,10 @@ image: "img/adaptingbcforests2.jpg"
 date:   2016-07-08 12:12:12
 ---
 
+## Abstract
 En la actualidad la agricultura en el mundo tiene dos versiones muy claras: la industrial y la familiar. La primera depende altamente de insumos y de maquinaria, es decir, el trabajo lo hace la tecnología agrícola, se produce para vender y se administra para ganar. Del otro lado se encuentra la agricultura familiar, que se basa en la fuerza de trabajo de las familias que trabajan la tierra, tiende a usar los recursos bióticos en mayor medida y genera alimentos para los productores y para el mercado (aunque puede haber casos donde la mayoría se vende).
+
+## Definición de Agricultura Familiar en Latinoamérica
 
 En este trabajo tratamos la definición y el panorama de la agricultura familiar, definida por la FAO como la producción de alimentos (en los sectores agrícola, pecuario, forestal, pesquero y acuícola) realizada por familias en las que: hay acceso limitado a recursos y capital; el jefe de familia es un trabajador directo en la producción labor agrícola por parte del jefe de familia y donde la familia tiene como principal fuente de ingresos ésta actividad.
 Para darnos cuenta de la gran importancia de la agricultura familiar a nivel mundial basta con tener en cuenta que 80% de los alimentos del mundo son producidos por unidades de producción familiares 80% (de las cuales 49% se encuentran en China e India) y ocupan entre el setenta y ochenta por ciento de las tierras agrícolas. Más de dos terceras partes de estas familias poseen menos de una hectárea para trabajar. 
@@ -46,11 +49,15 @@ Pero ¿qué tan congruentes con la realidad son los desafíos y oportunidades qu
 De esta forma, considerando que las necesidades básicas son mejor cubiertas cuando se apoya la agricultura familiar, surgen dos conceptos clave para el desarrollo de las sociedades: seguridad alimentaria y soberanía alimentaria. ¿Qué son estos dos conceptos y que tan relevantes son para el desarrollo? 
 En mi opinión la seguridad alimentaria consiste en que todos los seres humanos tengamos comida sana y suficiente. Las definiciones oficiales para política pública complejizan un poco esta definición para que cumpla ciertos parámetros como la inocuidad, el acceso, la disponibilidad, la utilización y la permanencia de éstas condiciones. En mi opinión una de las metas fundamentales del desarrollo humano, aparte de la salud y la dignidad, es garantizar la alimentación. Por esta razón es de fundamental importancia garantizar la seguridad alimentaria. Ahora, cada uno de los parámetros es clave.
 
+## Reflexiones Personales
+
 Cuando cotejamos con la realidad, la seguridad alimentaria apoyada desde políticas públicas es, pocas veces, saludable. Un claro ejemplo es el programa de Oportunidades: se asegura que la gente acceda a alimentos, ¿pero qué alimentos? muchas veces coca-cola y gansitos. Esto es terrible. En la definición de seguridad alimentaria de la FAO se excluye que los alimentos sean sanos, lo cual es una clave también para que los seres humanos estemos contentos. Pero en ese caso, ¿cómo le hacemos para que tengamos una seguridad alimentaria sana?
 
 Una  de las propuestas, que creo que es estupenda, es la de soberanía alimentaria. Muchos analistas coinciden en que cuando los pueblos generan su propio alimento (dentro de un territorio o región) este será mucho más apropiado para ellos en términos de salud, economía, trabajo, etc. Por esta razón la soberanía alimentaria propone el fortalecimiento de las capacidades de producción e intercambio de alimentos locales. Esta opción naturalmente será complicada para muchos lugares en los que la población humana se ha establecido a base de tecnología y petróleo, como la ciudad de Monterrey, pero es una opción muy valiosa para todas las regiones en las que los recursos naturales son abundantes. La Península de Yucatán en particular tiene la capacidad de trabajar por su soberanía alimentaria y con ello mejorar permanentemente la calidad de vida de sus habitantes.
 
 Pero para fortalecer la agricultura familiar y la soberanía alimentaria ¿qué papel tienen los agricultores familiares en los programas nacionales de seguridad alimentaria? Según Gordillo (2004) los agricultores familiares son la clave de la seguridad alimentaria por su proporción mayoritaria dentro de la producción en Latinoamérica. Para poder mejorar la seguridad alimentaria la agricultura familiar debe subir de nivel. Sin embargo los productores deben ser apoyados en diferentes rubros entre los que se encuentran: la competitividad de la producción, la asociación y cooperación para la producción, tener asistencia directa en casos de extrema pobreza, tener acceso a financiamiento, recursos naturales e infraestructura productiva y transferencia tecnológica.
+
+## Bibliografía
 
 Agricultores familiares: Alimentar al mundo, cuidar el planeta. FAO 2014. Disponible en http://www.fao.org/resources/infographics/infographics-details/es/c/272983/
 
