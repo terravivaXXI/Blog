@@ -3,7 +3,7 @@ title:  "Las primeras dos etapas del proyecto Kool Ja"
 subtitle: "Sistematización de una experiencia"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/montanas.jpg"
 date:   2016-08-26 12:12:12
 ---
 
