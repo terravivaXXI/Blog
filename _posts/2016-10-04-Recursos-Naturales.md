@@ -4,7 +4,7 @@ subtitle: "Ensayo sobre los capítulos 14 y 16 del libro Medio Ambiente y Desarr
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
 image: "img/adaptingbcforests2.jpg"
-date:   2016-02-07 12:12:12
+date:   2016-10-04 12:12:12
 ---
 
 Los dos capítulos presentados versan sobre el concepto de recurso natural y su vigencia en la actualidad. Se destaca la necesidad de debatir el concepto de recurso natural, que hasta a finales del siglo XX fue enseñado y difundido como toda aquella materia proveniente de la naturaleza que tuviera algún uso y valor para el ser humano. Sin duda es menester discutirlo a la luz de la actual crisis de los recursos que se agravia con el paso del tiempo, el crecimiento poblacional y la disfuncionalidad de las sociedades modernas.
