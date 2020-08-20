@@ -3,7 +3,7 @@ title:  "La evolución de la gestión"
 subtitle:
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/leo.jpg"
+image: "img/leo.JPG"
 date:   2015-08-13 12:12:12
 ---
 
