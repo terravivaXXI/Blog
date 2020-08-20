@@ -3,7 +3,7 @@ title:  "El concepto de innovación en el contexto del desarrollo."
 subtitle: "Un motor de cambio"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/berna.jpg"
 date:   2016-04-06 12:12:12
 ---
 
