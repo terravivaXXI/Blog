@@ -151,8 +151,8 @@ De forma sintética las hipótesis de este trabajo pueden presentarse de la sigu
 •	La aceptación generalizada de una práctica se da a partir de la verificación práctica de su funcionamiento y de la disponibilidad de los materiales necesarios. Es necesario pasar por un proceso de análisis, mejora, personalización y validación de las prácticas para que puedan ser incorporadas al sistema. 
 
 ## TABLA DE CONTENIDO TENTATIVO DE LA TESIS
-
-C.1	La comunidad de Yoactún
+>
+C.1	La comunidad de Yoactún 
 a.	Demografía
 b.	Recursos naturales
 c.	Gobierno 
@@ -190,10 +190,4 @@ Durante los meses de crecimiento del cultivo se dará un seguimiento general a l
 Al final de la temporada de lluvias deberá pasarse por un segundo momento de decisión en el que se podrá escoger realizar una segunda etapa de cultivo o analizar lo acontecido en el experimento anterior para pasar a la corrección de los errores identificados y la incorporación de nuevas prácticas y actores que quieran colaborar con el proyecto. 
 El informe de resultados, que formará el trabajo recepcional, deberá ser redactado durante la primavera de 2017 para ser presentado en la graduación de la cuarta generación de la MGDR en el mes de julio de 2017.
 
-## Tiempo	Actividad	Producto
-Julio 2016	Primera reunión de diseño participativo	Catálogo de estrategias
-Agosto 2016	Implementación de las tecnologías desarrollas	Capítulo 4 primeros dos apartados
-Septiembre – Noviembre 2016	Monitoreo y generación de indicadores	Capítulo 4 últimos dos apartados
-Diciembre 2016	PIA III. Presentación de resultados ante productores y recopilación de información para los primeros tres capítulos	Capítulo 1,2,3 y 6
-Diciembre – Febrero 2016	Talleres participativos de reflexión sobre prácticas	Capítulo 5
  
