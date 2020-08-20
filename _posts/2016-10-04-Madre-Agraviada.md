@@ -11,7 +11,7 @@ date:   2016-02-07 12:12:12
 
 El presente trabajo es un ensayo sobre los artículos periodísticos: La madre de todas las batallas de Víctor Toledo (2016) y Siete medidas para acabar con el hambre de Belén Hernández (2013).
 
-# Discusión 
+## Discusión 
 
 En el artículo de Hernández se presenta un resumen de siete estrategias complementarias para combatir el hambre en el mundo. Según el Programa Mundial de Alimentos cerca de 795millones de personas en el mundo no tienen suficientes alimentos para llevar una vida saludable y activa. Eso es casi una de cada nueve personas en la tierra. La mayor parte de estas personas viven en países subdesarrollados y el grupo de edad que más sufre dicha condición son los niños, pues el 45% de las muertes de menores de 5 años.
 
