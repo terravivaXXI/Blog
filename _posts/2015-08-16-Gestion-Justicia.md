@@ -3,7 +3,7 @@ title:  "La gestión del desarrollo"
 subtitle: "Un camino emergente para la construcción descentralizada de un mundo más justo."
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/moringa.jpg"
 date:   2015-08-16 12:12:12
 ---
 ### Abstract 
