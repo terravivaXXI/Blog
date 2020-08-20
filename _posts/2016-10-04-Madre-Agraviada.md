@@ -3,7 +3,7 @@ title:  "La madre agraviada y el hambre de sus hijos"
 subtitle: "Una integración de los textos de Toledo V. y Hernández B."
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/montanas.jpg"
 date:   2016-02-07 12:12:12
 ---
 
