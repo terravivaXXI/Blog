@@ -3,7 +3,7 @@ title:  "Recursos Naturales: Una discusión sobre el término "
 subtitle: "Ensayo sobre los capítulos 14 y 16 del libro Medio Ambiente y Desarrollo de Paolo Bifani"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/arboles.jpg"
 date:   2016-10-04 12:12:12
 ---
 
