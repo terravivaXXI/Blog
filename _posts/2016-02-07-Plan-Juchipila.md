@@ -9,6 +9,8 @@ date:   2016-02-07 12:12:12
 
 ## Introducción
 
+Basado en el texto *" Morales Carrillo N., Trujillo Arenas, J., Cervantes Herrera J., Cabral Arévalos A., Morales Vaquera J. Plan de Dessarrollo Regional del Cañón de Juchipila. Secretaría de Desarrollo Agropecuario, FAO, UACH. Marzo 2005. "*
+
 El plan de desarrollo para la región de Juchipila es un plan poco común, pues es un modelo de desarrollo para una cuenca en lugar de una demarcación política. Esto lo hace un modelo muy adaptado a las condiciones naturales, pues la geografía y condiciones ecológicas están muy bien integradas en toda la región. 
 
 Para la elaboración de este plan se siguió una metodología claramente orientada al ver-pensar-actuar. Para ello, en grandes rasgos, se hizo un diagnóstico para pasar después a diseñar una estrategia y luego diseñar el marco de acción para la aplicación de la misma. Esto genera tres bloques ordenados que permiten tomar decisiones ejecutivas claras ordenando la información con las siguientes tres preguntas: 
