@@ -3,7 +3,7 @@ title:  "Autodiálogo"
 subtitle: "Reflejos de mi posicionalidad como autor"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/montanas.jpg"
 date:   2015-08-07 12:12:12
 ---
 
