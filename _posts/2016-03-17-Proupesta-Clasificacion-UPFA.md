@@ -3,7 +3,7 @@ title:  "Propuesta de clasificación de las unidades de producción agrícola fa
 subtitle: "Una propuesta para la península de Yucatán"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/arboles.jpg"
 date:   2016-03-17 12:12:12
 ---
 
