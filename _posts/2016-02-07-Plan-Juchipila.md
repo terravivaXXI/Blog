@@ -3,7 +3,7 @@ title:  "La metodología del Plan de Desarrollo Regional del Cañón de Juchipil
 subtitle: "Un comentario a la Metodología"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/berna.jpg"
 date:   2016-02-07 12:12:12
 ---
 
