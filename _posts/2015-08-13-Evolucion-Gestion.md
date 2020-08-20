@@ -1,0 +1,44 @@
+---
+title:  "La evolución de la gestión"
+subtitle:
+author: "Pablo GM"
+avatar: "img/authors/avatar.png"
+image: "img/adaptingbcforests2.jpg"
+date:   2015-08-13 12:12:12
+---
+
+Actualmente entendemos por gestión al actuar consecuentemente para conseguir un objetivo, pero hay una larga historia detrás del término que nos remonta hasta la civilización griega, en la que se establecieron los principios de la autogestión.
+
+Curiosamente la palabra que apareció primero fue la *autogestión*, que con la adición del prefijo “auto”, condiciona a la gestión a ser realizada por el sujeto que se beneficia de la misma. Las ideas de los filósofos clásicos contemplaron conceptos clave para la creación de la autogestión, por ejemplo, la democracia, en la que el mismo pueblo elige a sus gobernantes, o la autonomía, que se refiere a la capacidad del sujeto a tomar sus propias decisiones. 
+
+Durante la edad media, un claro ejemplo de aplicación de la autogestión, aunque aún no existiera el término, fue la sociedad planteada por Tomasso Campanella en su obra La ciudad del sol, en la que un pueblo es gobernado por los principios de la potencia, la sabiduría y el amor, los cuales monitorean el orden social y funcionan como jueces en los acuerdos de las diferencias de sus habitantes.
+
+Con la llegada de los siglos XVIII y XIX, el movimiento liberalista y la ilustración siguieron sentando las bases del concepto autogestión con la defensa de los derechos del hombre y las ideas de varios filósofos liberales como Locke, que enfatiza la independencia de cada ser humano y Kant, que hace a cada quien responsable de diseñar su ética con el principio “actúa de tal forma que la máxima de tu voluntad pueda ser establecida como legislación universal”.
+
+La autogestión toma un matiz organizacional y político con los movimientos obreros posteriores a la revolución industrial. En aquel momento histórico la autogestión se convierte en la forma de organización clave para cubrir la necesidad de explorar nuevos métodos de producción que tuvieran menor propensión a la explotación de los trabajadores. En ese momento, además de una nueva forma de organización, la autogestión pasa a ser una cultura organizacional sobre la que se diseñaron sindicatos, derechos laborales y hasta publicaciones escritas.
+
+A finales del siglo XIX ya había muchos intentos de organizaciones sociales y productivas autogestivas, entre las que podemos encontrar a las colonias socialistas del nuevo mundo, fundadas en los Estados Unidos y en Brasil, que buscaron sin mucho éxito aplicar los principios del socialismo utópico. La comuna de París fue declarada por Marx como la primera dictadura del proletariado, pero duró únicamente dos meses antes de ser derrocada. Otro ejemplo de comunidad autogestiva fueron los kibutz palestinos popularizados en la década de los 20 como forma de organización rural.
+
+La autogestión se consolida como palabra a mitades del siglo XX, siendo usada bajo el vocablo samupravlieni por los anarquistas durante la revolución rusa. El concepto samupravlje apareció también en Yugoslavia con el mariscal Tito y consistía en una forma de organización para que las fábricas fueran gobernadas por los mismos obreros. Tristemente, como la mayoría de las estructuras dentro del socialismo de estado, no tardó en viciarse y en convertirse en una estructura dictatorial por parte de los auditores del gobierno.
+
+En los últimos años la autogestión se ha convertido en un ideal común para muchas formas de organización social (gobiernos, ACs, proyectos) pero también se habla de la gestión, aún cuando no sea realizada por el propio sujeto (lo que elmina el prefijo auto). La palabra gestión se refiere a un proceso seguido para alcanzar un objetivo particular, pero desde los setenta hasta la actualidad en Latinoamérica, en el contexto de la educación popular y el desarrollo comunitario, la gestión se asocia a la participación popular en procesos de transformación de su propia realidad y en el ámbito de emprendurismo social y la sociedad civil organizada al diseño y ejecución de proyectos de desarrollo, donde éstos pueden ser de infraestructura, educación, salud, actividad económica, entre otros.
+
+Bajo la imperante crisis de credibilidad del gobierno, la gestión del desarrollo juega un papel fundamental en la construcción de alternativas de gobernanza y de modelos de desarrollo sustentable. Una de las grandes ventajas de la gestión es que puede acomodarse en cualquier sector económico, ya sea en dependencias gubernamentales como Sedesol e INI, en fundaciones de empresas privadas como Fundación Banamex, Ashoka y Bill y Melinda Gates o en OSCs como la Cruz Roja o Amigos de Sian Kaan.
+
+El papel de la gestión del desarrollo es amplio, pues puede enfocarse a mejorar cualquier práctica humana. Cada día hay más recursos disponibles para ejecutar proyectos de desarrollo. Hace pocos años los dos hombres más ricos del mundo (en ese entonces) donaron la mitad de su fortuna a obras filantrópicas y aclararon que sólo darían a sus herederos un millón de dólares, donando el resto también. Estamos en una época en la que se gestan muchos proyectos de desarrollo y en la que la sociedad joven está en búsqueda de empleos creativos y con “sentido social” que pueden ser ocupados en éstos proyectos. 
+
+Muchos proyectos de desarrollo en México, especialmente los ejecutados por el gobierno, fracasan por falta de un gestor que pueda dar continuidad al proceso más allá de los tiempos políticos. Por esto, se empieza a cuestionar al gobierno su decisión de implementar los proyectos por medio de sus agencias, cuando es posible financiarlos a través de OSCs que pueden ser fácilmente auditadas y que constan de estructuras menos costosas.
+
+Actualmente nuestro país está muy atrasado en el tema de la iniciativa y participación ciudadana. Cuando los Estados Unidos cuentan con un millón y medio de OSCs registradas, en México hay menos de 20 mil . Además únicamente se remuneran el 44% del millón de empleos que generan. Los gestores pueden facilitar la organización de la sociedad civil con su experticia para generar nodos de desarrollo que puedan atraer recursos.
+
+Con la formación de profesionales de la gestión del desarrollo en el país, se construye una base para un futuro más democrático y participativo por las siguientes razones:
+
+•	Una de las causas de la corrupción en México es la centralización del presupuesto y la falta de auditoría. Al haber oferta de profesionales capaces de gestionar proyectos de desarrollo, las estructuras gubernamentales pueden comenzar a delegar el trabajo a agentes externos que están obligados a rendir cuentas y que pueden ser seleccionados por sus éxitos y capacidades. De esta forma, se construye una base social más activa y menos institucionalizada.
+
+•	El gobierno no necesita tener la iniciativa en los proyectos de desarrollo, pues le basta con evaluar los mejores proyectos que estén siendo realizados por los gestores para invertir en ellos. Así, por ejemplo, en vez de tener que diseñar un plan de saneamiento y definir áreas estratégicas para implementarlo, basta con evaluar las acciones que están en marcha en esa dirección para definir las más exitosas (o prioritarias) y apoyarlas.
+
+•	Hay una gran diversidad de propuestas de desarrollo en el país que no son ejecutadas por falta de capacidad de gestión. La educación en el diseño y ejecución de proyectos así como la canalización de recursos hacia ellos es una labor que pueden realizar eficientemente los gestores buscando la autogestión del proyecto tan pronto como sea posible. 
+
+En mi opinión, la gestión se está convirtiendo en una buena respuesta a la necesidad de un estado eficiente. Permite que los proyectos surjan muy rápidamente y colaboren activamente, sin necesidad de mediación. Gran parte de la ineficiente estructura gubernamental puede ser sustituida con grandes ahorros por asignaciones de presupuesto a gestores dentro de la sociedad civil. Esta red descentralizada que crece diariamente comienza a encontrar gran apoyo en las instituciones universitarias y fundaciones. La gestión del desarrollo se convertirá a futuro en un empleo reconocido con tintes de activismo político de vanguardia.
+
+Vale la pena resaltar que desde sus inicios como autogestión, esta palabra busca formas de organización equitativas y eficientes. En una sociedad globalizada, el gestor puede convertirse en vocero de la iniciativa que desee, lo que transforma la estructura de gobierno de forma radical. En vez de elegir representantes para ver qué hay que hacer, un gobierno basado en el apoyo a la gestión elige como representantes a aquéllos que están haciendo lo que había que hacer. Por esto, esta maestría para mi representa una oportunidad de oro para proponer un cambio político sustancial en mi país e insertarme en un campo laboral con gran importancia para el futuro.
