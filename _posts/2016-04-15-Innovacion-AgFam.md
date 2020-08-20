@@ -3,7 +3,7 @@ title:  "Innovación en la agricultura familiar"
 subtitle: "Una tensión entre lo urbano y lo rural"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/milpero.jpg"
 date:   2016-07-08 12:12:12
 ---
 
