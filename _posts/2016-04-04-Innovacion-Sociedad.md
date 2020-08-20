@@ -3,7 +3,7 @@ title:  "El papel de la innovación en el desarrollo regional y en la sociedad"
 subtitle: "Un ensayo sobre la teoría económica del desarrollo"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/koolja.jpg"
 date:   2016-07-08 12:12:12
 ---
 ## Introducción
