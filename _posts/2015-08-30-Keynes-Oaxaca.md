@@ -7,9 +7,7 @@ image: "img/adaptingbcforests2.jpg"
 date:   2016-02-07 12:12:12
 ---
 
-Al acabar la carrera y tras un viaje muy enriquecedor en Sudamérica, regresé a la ciudad de Oaxaca (donde crecí) y realicé mi servicio social en el Colegio Superior para la Educación Indígena Intercultural de Oaxaca (CSEIIO) , en el que fui asignado como asesor del coordinador del área de ciencias. 
-
-Mi primera impresión fue triste, pues mi jefe directo resultó ser un matemático formado en la Universidad Autónoma Benito Juárez de Oaxaca (UABJO) que no tenía mucha capacidad profesional ni pasión por la pedagogía pero que había encontrado un trabajo medianamente interesante y de sueldo aceptable. Pero conforme fui conociendo a los jefes de alto nivel mi desilusión fue aumentando cada vez más: el coordinador de estudios resultó ser un administrador educativo que apenas estaba gestionando su título y el director general era un priista que solo ocupaba el puesto “de paso” para poder brincar a la presidencia municipal de Juchitán de Zaragoza. 
+Al acabar la carrera y tras un viaje muy enriquecedor en Sudamérica, regresé a la ciudad de Oaxaca (donde crecí) y realicé mi servicio social en la educación pública Oaxaqueña, en la que fui asignado como asesor del coordinador del área de ciencias. 
 
 Con el paso de los días encontré una grave apatía en toda la planta laboral y al final no fui remunerado porque una asesora del director me dijo que no había recursos. Así comenzó mi experiencia de servicio en la educación oaxaqueña, que resultó en aprendizajes de estupenda calidad en muchos sentidos. Recuerdo muy bien haber preguntado y conocido los gastos de la institución, que resultaban ridículos. Para ejemplificar, la institución contaba con 4 vehículos para la movilidad del personal, pero tenía contratados 7 choferes.
 
