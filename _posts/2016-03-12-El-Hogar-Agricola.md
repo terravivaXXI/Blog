@@ -105,7 +105,7 @@ Con estos parámetros hemos generado dos tipos de hogares, los que se dedican a 
 
 De esta forma contamos con tres tipos de hogares agrícolas como se presenta en el diagrama 
 
-![alt text](https://drive.google.com/file/d/1rGhrCrdoiE1yES0EAJyNHAsUs4t4fGsx/view?usp=sharing "Diagrama Ag Fam")
+![alt text](https://github.com/terravivaXXI/Blog/blob/gh-pages/img/ClasificacionAgFam.png "Diagrama Ag Fam")
 
 ## Conclusiones 
 
