@@ -3,7 +3,7 @@ title:  "Avances latinoaméricanos en gestión participativa en en el periodo 19
 subtitle: "Ensayo sobre el documento: Análisis del estado del arte sobre la gestión de proyectos de Waldo Bustamante"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
-image: "img/adaptingbcforests2.jpg"
+image: "img/arboles.jpg"
 date:   2015-08-24 12:12:12
 ---
 Este texto es un comentario al documento *" Bustamante P. W. 2007. Análisis del Estado del Arte sobre Gestión de Proyectos. FIDAMERICA"*
