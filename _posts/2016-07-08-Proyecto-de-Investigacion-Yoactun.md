@@ -120,7 +120,7 @@ Naturalmente el resultado principal del trabajo consistirá en entender cuáles 
 Otras preguntas que pueden complementar estos problemas son: ¿Qué tan familiarizados están los milperos de la región con la innovación y como se generan los procesos de adopción de iniciativas externas? ¿Cuáles son las consecuencias de una innovación que aumenta la disponibilidad de agua en una milpa ¿Qué repercusiones tiene en el desarrollo de una familia o comunidad la adopción de una innovación o el aumento de la disponibilidad de recursos?.
 De esta forma, en resumen, el problema se puede describir mediante la siguiente pregunta: ¿Cómo se puede mejorar el manejo del agua que realizan los productores milperos de Yoactún utilizando metodologías participativas de diseño e investigación de tal forma que se genere un incremento en la seguridad alimentaria de la comunidad?
 
-##OBJETIVOS
+## OBJETIVOS
 
 Nuestro objetivo general consistirá en analizar la dinámica comunitaria, económica, social y cultural de algunos milperos de la comunidad de Yoactún con especial énfasis en su gestión del agua para generar propuestas que puedan mejorar la práctica milpera actual y con ello fortalecer restablecer, aunque sea a un nivel mínimo, la seguridad alimentaria de la comunidad.
 Para conseguir el objetivo general nuestro primer objetivo particular consistirá en entender los valores y puntos críticos de la práctica milpera así como sus componentes culturales para contar con información crucial en las próximas etapas de trabajo de forma que se transformen algunas prácticas que no modifiquen la cosmovisión y sentido del sistema. La exploración hacia este objetivo también nos demostrará el grado de disposición que existe a modificar las formas de trabajo tradicionales que los milperos han heredado milenariamente.
@@ -139,20 +139,30 @@ MARCO TEÓRICO PRELIMINAR
 ## HIPÓTESIS PRELIMINARES
 Las siguientes hipótesis están ordenadas de tal forma que correspondan al orden de los objetivos y problemas de investigación que se han propuesto anteriormente. 
 Nuestra primera hipótesis es que los milperos cuentan ya con una gran gama de alternativas para su sistema de producción pero no han logrado implementarlas porque este cambio implica una re-configuración cultural y la transformación de costumbres arraigadas. Dado que estas costumbres han sido históricamente las que les han permitido sobrevivir a circunstancias adversas como la guerra de castas, largas sequías y tiempos de huracanes, es muy difícil actuar en contra de esa lógica cultural. Además, muchos de los que han diseñado o pensado en estas alternativas  no han contado con un marco conceptual que los permita aplicarlas y probarlas sistemáticamente para convencerse de que pueden tener un impacto significativo en su producción. Sin duda el factor que más ha inhibido la capacidad de probar muchas de estas alternativas ha sido la carencia de los recursos económicos necesarios para implementarlas. Curiosamente también es parte de la identidad cultural recurrir mayormente a formas primarias de aprovechamiento de los recursos del bosque, sin generar perturbaciones importantes como las que puede representar la construcción de un pozo, una veleta, o camas de cultivo elevadas. 
+
 Nuestra segunda hipótesis es que existen varias prácticas dentro del sistema milpero que no se han transformado por la falta de reflexión sobre sus consecuencias y especialmente, de sus orígenes. Un claro ejemplo de este tipo de paradigma es la quema en posteriores años al desmonte. Aunque se reconoce que para terrenos en manejo continuo la quema signifca una fuerte pérdida de la microbiología del suelo, esta se sigue practicando debido al esquema que está establecido en la costumbre arraigada. La reflexión acerca de estas prácticas debe detonarse en los procesos participativos diseñados para poder tomar decisiones mejor informadas sobre el uso de las prácticas.
 Como tercera premisa sostenemos que el agua es fundamental para el sistema de producción pero no se han buscado alternativas por falta de recursos económicos y por la naturaleza itinerante del sistema. Aún no se ha generado un sistema estable ni sustentable bajo el esquema de milpa continua. Complementario a esto sostenemos que dentro de la comunidad hay una alta dependencia del sistema de agua potable que es susceptible a diversas fallas que pueden generar una fuerte crisis y que probablemente ya se han vivido en breves lapsos. Estas crisis pueden desencadenar fuertes problemas al interior de la comunidad.
+
 El cuarto supuesto sostiene que la tecnología para mejorar el sistema se conoce bien. Los productores tienen ideas claras sobre lo que puede y no funcionar correctamente bajo un análisis minucioso de ciclo de vida, en términos de costos, durabilidad, propensión a las crisis. Este tipo de herramientas no se han implementado por miedo al fracaso, por sus altos costos económicos y por falta de organización del sistema de producción pero la llegada de un actor externo puede permitir la exploración de los mismos bajo estructuras de investigación.
+
 Por último suponemos que la aceptación generalizada de una innovación se da a partir de la verificación práctica de su funcionamiento y de la disponibilidad de los materiales necesarios. Se deberá pasar por un proceso de análisis, mejora, personalización y validación de las prácticas para que puedan ser incorporadas al sistema. Además, complementariamente, se asume que la innovación tecnológica enfocada a la gestión del agua, con un proceso de adopción apropiado, pueden contribuir considerablemente al desarrollo de la comunidad
+
 De forma sintética las hipótesis de este trabajo pueden presentarse de la siguiente forma:
+
 •	Los milperos cuentan ya con una gran gama de alternativas para su sistema de producción pero no han podido implementarlas porque este cambio implica una re-configuración cultural y la transformación de costumbres arraigadas además de que no han contado con un marco conceptual que los permita aplicarlas y probarlas sistemáticamente ni con los recursos económicos necesarios.
+
 •	Existen varias prácticas dentro del sistema milpero que no se han transformado por la falta de reflexión sobre sus consecuencias y especialmente, de sus orígenes.
-•	El agua es fundamental para el sistema de producción pero no se han buscado alternativas por falta de recursos económicos y por la naturaleza itinerante del sistema. Dentro de la comunidad hay una alta dependencia del sistema de agua potable que es susceptible a diversas fallas que pueden generar una fuerte crisis
+
+•	El agua es fundamental para el sistema de producción pero no se han buscado alternativas por falta de recursos económicos y por la naturaleza itinerante del sistema. Dentro de la comunidad hay una alta dependencia del sistema de agua potable que es susceptible a diversas fallas que pueden generar una fuerte crisis.
+
 •	La tecnología para mejorar el sistema se conoce bien. No se ha implementado por miedo al fracaso, por sus altos costos económicos y por falta de organización del sistema de producción.
+
 •	La aceptación generalizada de una práctica se da a partir de la verificación práctica de su funcionamiento y de la disponibilidad de los materiales necesarios. Es necesario pasar por un proceso de análisis, mejora, personalización y validación de las prácticas para que puedan ser incorporadas al sistema. 
 
+
 ## TABLA DE CONTENIDO TENTATIVO DE LA TESIS
->
-C.1	La comunidad de Yoactún 
+
+#### C.1	La comunidad de Yoactún 
 
 a.	Demografía
 
@@ -164,7 +174,7 @@ d.	Sistemas de producción
 
 e.	Economía
 
-C.2	 La Seguridad alimentaria en Yoactún. 
+#### C.2	 La Seguridad alimentaria en Yoactún. 
 
 a.	Presentación de metodología
 
@@ -174,7 +184,7 @@ c.	Recomendaciones
 
 d.	Agua: Clave de la seguridad alimentaria
 
-C.3	 La historia de la comunidad de Yoactún contada desde el agua
+#### C.3	 La historia de la comunidad de Yoactún contada desde el agua
 
 a.	La fundación y la historia antigua de Yoactún
 
@@ -182,13 +192,13 @@ b.	La historia de la gestión del agua
 
 c.	El agua en Yoactún hoy
 
-C.4	 El agua en la milpa
+#### C.4	 El agua en la milpa
 
 a.	La milpa en el pasado
 
 b.	La situación actual del agua en la milpa 
 
-C.5	 Alternativas para la crisis milpera
+#### C.5	 Alternativas para la crisis milpera
 
 a.	Metodología participativa
 
@@ -198,13 +208,13 @@ c.	Propuestas
 
 d.	Experimentación y resultados
 
-C.6	 Diseño de una metodología de transferencia
+#### C.6	 Diseño de una metodología de transferencia
 
 a.	Tecnologías a transferir
 
 b.	Estrategias.
 
-C.7	 Conclusiones y recomendaciones.
+#### C.7	 Conclusiones y recomendaciones.
 
  
 ## CRONOGRAMA DE ACTIVIDADES
