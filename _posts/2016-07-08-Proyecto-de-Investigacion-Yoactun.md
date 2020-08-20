@@ -153,32 +153,59 @@ De forma sintética las hipótesis de este trabajo pueden presentarse de la sigu
 ## TABLA DE CONTENIDO TENTATIVO DE LA TESIS
 >
 C.1	La comunidad de Yoactún 
+
 a.	Demografía
+
 b.	Recursos naturales
+
 c.	Gobierno 
+
 d.	Sistemas de producción
+
 e.	Economía
+
 C.2	 La Seguridad alimentaria en Yoactún. 
+
 a.	Presentación de metodología
+
 b.	Presentación de resultados
+
 c.	Recomendaciones
+
 d.	Agua: Clave de la seguridad alimentaria
+
 C.3	 La historia de la comunidad de Yoactún contada desde el agua
+
 a.	La fundación y la historia antigua de Yoactún
+
 b.	La historia de la gestión del agua 
+
 c.	El agua en Yoactún hoy
+
 C.4	 El agua en la milpa
+
 a.	La milpa en el pasado
+
 b.	La situación actual del agua en la milpa 
+
 C.5	 Alternativas para la crisis milpera
+
 a.	Metodología participativa
+
 b.	Las experiencias de participación
+
 c.	Propuestas
+
 d.	Experimentación y resultados
+
 C.6	 Diseño de una metodología de transferencia
+
 a.	Tecnologías a transferir
+
 b.	Estrategias.
+
 C.7	 Conclusiones y recomendaciones.
+
  
 ## CRONOGRAMA DE ACTIVIDADES
 La investigación a realizar ya cuenta con dos avances importantes. El primero consiste en la información de campo recabada durante el PIA II, en el que se encuentran muchas historias sobre la fundación y la gestión del agua que fueron relatadas por una gran muestra de habitantes que fueron entrevistados mediante un guión semiestructurado. Esta información ha permitido orientar las hipótesis de este trabajo y es un complemento importante para contextualizar el trabajo a realizar.
