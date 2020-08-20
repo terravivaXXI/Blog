@@ -85,6 +85,8 @@ Esta sistematización será realizada personalmente por Pablo González, quien e
 
 A continuación presentamos una línea del tiempo con los eventos más relevantes de ambas etapas que nos permitirán ubicarnos temporalmente y recordar el orden con el que fueron realizadas las actividades, además de relacionarlas causalmente y entender en qué momentos se cometieron los descuidos que llevaron al surgimiento de problemas.
  
+| Fecha | Evento |
+| --- | --- |
 | 12 de agosto de 2015 | Reunión para el acuerdo de la realización de los captadores kool-ja |
 | 11 de octubre de 2015 | Presentación del proyecto a la organización |
 | Segunda quincena de octubre de 2015 |  Propuesta de Uyool Che a los milperos candidatos del proyecto Kool Ja de realizar la instalación en sus parcelas |
