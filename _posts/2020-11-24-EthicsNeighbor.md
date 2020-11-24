@@ -23,4 +23,4 @@ Yesterday, DC showed up in my door telling me that he had a plan submitted to th
 
 ## A brief explanation of the metaphor
 
-
+Financially underdeveloped countries (UC) are home to approximately 7 out of 8 people in the world. They have a per capita carbon footprint that is way lower than the one of their neighbors (USA and Canada per capita footprint is 3 times the one of Mexico and 7.5 the one of India). They are being targeted as strategic areas for Forest Landscape Restoration and carbon sequestration. However, the financially developed countries (DC) are not addressing their carbon emitting activities with a similar emphasis. Consmption habits continue to being promoted as the base of economic development. When are we restructuring this power relationship? 
