@@ -7,7 +7,7 @@ image: "img/arboles.jpg"
 date:   2020-11-24 12:12:12
 ---
 
-## [Letter to the Ethicist](https://www.nytimes.com/column/the-ethicist)
+## Letter to the Ethicist ["(see examples)"](https://www.nytimes.com/column/the-ethicist)
 
 Hello, my name is UC and would like to get some advice on how to deal with my neighbor.
 
