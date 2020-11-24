@@ -7,7 +7,7 @@ image: "img/arboles.jpg"
 date:   2020-11-24 12:12:12
 ---
 
-##[Letter to the Ethicist](https://www.nytimes.com/column/the-ethicist) of the NYT
+## [Letter to the Ethicist](https://www.nytimes.com/column/the-ethicist)
 
 Hello, my name is UC and would like to get some advice on how to deal with my neighbor.
 
@@ -20,4 +20,7 @@ My condo house stands out for having a large garden with diverse vegetated areas
 To my surprise, DC, who lives alone, has been ordering takeout frequently and got a new microwave to reheat his food. A week ago, DC came over to ask if he could leave a big black garbage bag in my garden because he had no place to put it anymore and could see I had plenty of space. I was happy to agree in a helpful mood and he left his bag thanking me many times.
 
 Yesterday, DC showed up in my door telling me that he had a plan submitted to the municipality so that “we” (he and me) could arrange all the garbage we were producing in all the available space we had. I asked for some time to read the plan and have not figured out how to respond to him. What should I do?
+
+## A brief explanation of the metaphor
+
 
