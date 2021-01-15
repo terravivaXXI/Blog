@@ -1,6 +1,6 @@
 ---
 title:  "Food Budgets for Mexican Economic Strata"
-subtitle: "A quick reflection on the amount and categories of expenditure by social sectors"
+subtitle: "A quick reflection on the amount and categories of expenditure of the socioeconomic sectors"
 author: "Pablo GM"
 avatar: "img/authors/avatar.png"
 image: "img/montanas.jpg"
