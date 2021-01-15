@@ -1,4 +1,13 @@
-# What do poor and rich spend on food in Mexico?
+---
+title:  "Food Budgets for Mexican Economic Strata"
+subtitle: "A quick reflection on the amount and categories of expenditure by social sectors"
+author: "Pablo GM"
+avatar: "img/authors/avatar.png"
+image: "img/montanas.jpg"
+date:   2020-12-01 12:12:12
+---
+
+# How much and in what do poor and rich spend on food in Mexico?
 
 What do people buy when they have more money? I would argue that there’s a cultural factor in what “the rich” prioritize in different countries. A small experiment can be extracted from the National Survey on Household Income and Expenditure (ENIGH 2018) in Mexico. If we calculate the quotient between the highest and lower income decile of a national sample of households, we learn that rich families spend in average 13.4K MXN and therefore 3 times more money in their food than the poorest families (4.5K), with some particular categories that are way more differentiated than others.
 
